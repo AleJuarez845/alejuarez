@@ -15,7 +15,7 @@ ul#menu li a {
 }
 
 ul#menu li a:hover {
-    background-color: yellow;
+    background-color: red;
 div.right{
 float: right;
 
