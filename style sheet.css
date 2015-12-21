@@ -25,3 +25,11 @@ div.right{
 float: right;
 
 }
+html {
+  background: url(http://www.pic4pk.com/wp-content/uploads/2015/07/Blue-Abstract-Wallpapers-Desktop.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+
+body {
+  color: white;
+}
