@@ -1,28 +1,5 @@
 
-.namebar{
-  text-align: center;
-  font-size: 2em;
-  margin: 1em;
-}
 
-.navbar{
-  display: inline-block;
-  position: relative;
-  padding: 0px;
-  margin:0px;
-  text-align: center;
-}
-
-.navbar li{
-  padding: 0px;
-  margin: 0px;
-  text-align: center;
-  list-style-type: none;
-  position: relative;
-  float: left;
-  background-color:blue;
-  width:13.15em;
-}
 
 .dropdown-menu{
   padding:0px;
@@ -30,10 +7,7 @@
   text-align: center;
 }
 
-.navbar li ul li{
-  border: 1px solid black;
 
-}
 
 
 
