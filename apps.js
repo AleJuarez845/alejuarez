@@ -1,9 +1,5 @@
 var main = function(){
-  $('.dropdown-toggle').hover(function(){
-    $('.dropdown-menu').toggle();
-  });
-
-  $('.cell').hover(function(){
+  $('.dropdown-toggle').click(function(){
     $('.dropdown-menu').toggle();
   });
 
