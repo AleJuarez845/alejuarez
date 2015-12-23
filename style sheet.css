@@ -1,5 +1,54 @@
 
+body{
+  background-color: white;
+}
+.namebar{
+  text-align: center;
+  font-size: 2em;
+  margin: 1em;
+}
 
+.navbar{
+  display: inline-block;
+  position: relative;
+  padding: 0px;
+  margin:0px;
+  text-align: center;
+}
+
+.navbar li{
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+  list-style-type: none;
+  position: relative;
+  float: left;
+  background-color: white;
+  width:13.15em;
+}
+
+.dropdown-menu{
+  padding:0px;
+  margin:0px;
+  text-align: center;
+}
+
+.navbar li ul li{
+  border: 1px solid black;
+
+}
+
+
+
+
+a:link, a:visited{
+  text-decoration: none;
+  color:black;
+  font-size: 2.7em;
+  font-family: 'Vollkorn', serif;
+}
+
+<<<<<<< HEAD
 ul#menu li {
     display: inline;
       width: 800px;
@@ -45,4 +94,11 @@ div.center {
 	font-variant: normal;
 	font-weight: 500;
 	line-height: 26.4px;
+=======
+a:hover{
+  text-decoration: none;
+  color:gold;
+  font-size: 2.7em;
+  font-family: 'Vollkorn', serif;
+>>>>>>> origin/master
 }
