@@ -1,5 +1,7 @@
 
-
+body{
+  background-color: white;
+}
 .namebar{
   text-align: center;
   font-size: 2em;
@@ -46,7 +48,7 @@ a:link, a:visited{
   font-family: 'Vollkorn', serif;
 }
 
-
+<<<<<<< HEAD
 ul#menu li {
     display: inline;
       width: 800px;
@@ -79,7 +81,6 @@ body {
   background-image: url("/pictures/Blue-Abstract-Wallpapers-Desktop.jpg");
   background-size: cover;
 }
-
 
 a:hover {
   text-decoration: none;
