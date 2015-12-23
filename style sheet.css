@@ -1,7 +1,4 @@
 
-body{
-  background-color: white;
-}
 .namebar{
   text-align: center;
   font-size: 2em;
@@ -23,7 +20,7 @@ body{
   list-style-type: none;
   position: relative;
   float: left;
-  background-color: white;
+  background-color:blue;
   width:13.15em;
 }
 
@@ -48,14 +45,14 @@ a:link, a:visited{
   font-family: 'Vollkorn', serif;
 }
 
-<<<<<<< HEAD
+
 ul#menu li {
     display: inline;
       width: 800px;
 }
 
 ul#menu li a {
-    background-color:white;
+    background-color:green;
     color: blue;
     padding: 20px 60px;
     text-decoration: none;
